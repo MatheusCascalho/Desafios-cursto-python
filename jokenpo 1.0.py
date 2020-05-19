@@ -12,3 +12,4 @@ elif escolha_user == 'pedra' and escolha_pc == 'tesoura':
     print('VOCE GANHOU!! o pc jogou: ', escolha_pc)
 else:
     print('PERDEU! pc jogou: ', escolha_pc)
+print('Parabéns!!!!!!!')
